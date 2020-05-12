@@ -1,4 +1,4 @@
-# Microbiome Temporal Analysis - Impact of gut microbiota on peripheral immune cell dynamics
+# Microbiome Temporal Analysis - Impact of the gut microbiota on peripheral immune cell dynamics
 
 ## Overview
 
