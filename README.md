@@ -12,7 +12,7 @@ Our idea was to refine the linear regression the authors perform by a more compl
 
 This project was made on Google Colab, to speed up the training of our NNs, but can be run without it. In that case, please ignore the first section of the notebook.
 
-## Data 
+## Data description
 
 The original data tables are located in the "Supplementary Material" section of the article (see the link above). 
 We also saved the data we used for the training of our NNs, after a heavy selection on the original data. These tables can be found in ```training_data```, separated according to each stage of the analysis.
